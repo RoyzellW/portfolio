@@ -1,0 +1,17 @@
+.container {
+    margin-top: 50px;
+}
+
+html body {
+    background-color: #f3f3f3;
+}
+
+#footer {
+    margin-top: 50px;
+    border-radius: 100px;
+}
+
+li {
+    color: aqua;
+}
+
